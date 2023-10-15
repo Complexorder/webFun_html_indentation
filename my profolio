@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yazan alian</title>
+</head>
+<body>
+    <img src="me.jpg" alt="profile picture">
+    <ul>
+        <li>name :Yazan</li>
+        <li>last name : Eleyan</li>
+        <li>Email: Eleyan.yazan@gmail.com </li>
+    </ul>
+    <ol>
+        <p><strong>languages</strong></p>
+        <li>arabic</li>
+        <li>english</li>
+        <li>turkish</li>
+    </ol>
+
+    <p>learing in process: full stack devlopment</p>
+    <p>achived: html</p>
+    <div>
+        <label for="email">email</label>
+        <a href="Eleyan.yazan@gmail.com"></a>
+        <label for="githup">githup</label>
+        <a href="https://github.com/Complexorder"></a>
+        <label for="my facebook ">facebook</label>
+        <a href="https://www.facebook.com/yazan.alian.3"></a>
+    
+    </div>
+
+    <div>
+        <p><strong>contact me </strong></p>
+        <label for="name">name</label>
+        <input type="text">
+        <label for="email">email</label>
+        <input type="email">
+    </div>
+    <div>
+        <label for="message">message</label>
+        <textarea name="message" id="to leave a message " cols="30" rows="10"></textarea>
+    </div>
+    <div>
+        <input type="submit" name="submit" id="submit">
+        <label for="submit"></label>
+    </div>
+</body>
+</html>
